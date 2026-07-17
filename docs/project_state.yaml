@@ -136,6 +136,10 @@ next_recommended:
     priority: medium
 
 recent_changes:
+  - date: "2026-07-17"
+    change: Updated documentation hub (docs/README.md) and aligned admin dashboard README tech stack with package.json (Next.js 16, React 19, Tailwind 4)
+  - date: "2026-07-13"
+    change: fix(proxy): stream chat completions correctly
   - date: "2026-07-13"
     change: Replaced plugin-based middleware with sandboxed Rhai scripting engine; scripts support per-API-key binding, configurable sandbox limits, and validate/dry-run in admin
   - date: "2026-07-13"
@@ -165,5 +169,5 @@ recent_changes:
   - date: "2024-06-13"
     change: Initial schema creation (organizations, api_keys, providers, requests_log, provider_model_pricing)
 
-last_commit: "13ef6cd3a84671f4e57bf09d32d6e18760605eb6"
-updated_at: "2026-07-13T12:00:00Z"
+last_commit: "5e06b4c958c8f2efb3cff13d771e490b61450856"
+updated_at: "2026-07-17T12:00:00Z"

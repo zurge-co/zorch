@@ -4,12 +4,12 @@ The Zorch Admin Dashboard is a comprehensive management interface for the Zorch 
 
 ## Project Overview
 
-Built with **Next.js 14 (App Router)** and **shadcn/ui**, the dashboard provides a high-performance, responsive interface for managing the Zorch ecosystem.
+Built with **Next.js 16 (App Router)**, **React 19**, **TypeScript 5**, **Tailwind CSS 4**, and **shadcn/ui**, the dashboard provides a high-performance, responsive interface for managing the Zorch ecosystem.
 
 ### Tech Stack
-- **Framework**: Next.js 14
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
+- **Framework**: Next.js 16.2.9
+- **Language**: TypeScript 5
+- **Styling**: Tailwind CSS 4
 - **UI Components**: shadcn/ui (Radix UI)
 - **Icons**: Lucide React
 - **Theme**: next-themes (Light/Dark mode)
